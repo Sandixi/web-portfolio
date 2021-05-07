@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2319 1937" width="150" height="125">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="987" y1="1608.528" x2="1903.577" y2="20.97">
+			<stop offset="0.348" stop-color="#ffffff"  />
+			<stop offset="1" stop-color="#c5c5ff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: url(#grd1) } 
+		.txt2 { font-size: 350px;fill: #ffffff;font-weight: 400;font-family: "Candal", "Candal" } 
+	</style>
+	<path id="Shape 4" class="shp0" d="M1839 1226C1839 1226 1962 1082.38 1965 998C1968 913.62 1983 812 1983 812C1983 812 2004 710.37 2073 704C2142 697.63 2211 746 2211 746L2310 782C2310 782 2262 785.37 2199 815C2136 844.63 2061 920.37 2049 965C2037 1009.63 1839 1226 1839 1226Z" />
+	<path id="Shape 4" class="shp0" d="" />
+	<path id="Shape 2" class="shp0" d="M21 1942C21 1942 885 1605.75 1107 1444C1329 1282.25 1455 1084 1455 1084C1455 1084 1441 1275.75 1277 1432C1113 1588.25 1095 1588 1095 1588L21 1942Z" />
+	<path id="Shape 3" class="shp1" d="M987 16L1026 41C1026 41 1356 394.38 1464 646.63C1572 898.88 1729 1225.63 1221 1540.63C800.77 1801.2 1707 1279.62 1707 1279.62L1821 1180.63L1875 1087.63C1875 1087.63 1950 965.37 1857 824C1764 682.63 1254 215.38 1128 116C1002 16.63 1002 17 1002 17" />
+	<text id="MDT" style="transform: matrix(1,0,0,1,557,1207)" >
+		<tspan x="0" y="0" class="txt2">MDT</tspan>
+	</text>
+</svg>

@@ -241,7 +241,7 @@ section .title{
 /* services section styling */
 .services, .teams{
     color:#fff;
-    background: url("./images/1.jpeg") no-repeat center;
+    background: url("1.jpeg") no-repeat center;
     height: 65vh;
     color: #fff;
     min-height: 500px;
